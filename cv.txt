@@ -1,8 +1,0 @@
-Hello!!
-My name is Dmitry Ziablitsev , I'm 19 years old.
-Currently I'm the student of BSUIR , 3rd course.
-I plan to become a Java Developer.
-I really didn't do well with programming when I've just started it.
-It has been a loooong way from my first "Hello world !!!" in Java to my today's abilities.
-But still I consider myself to be newbie in programming and I really wish to strengthen my coding skills and learn new technologies.
-I look forward to hearing from you.
